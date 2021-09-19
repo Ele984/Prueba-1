@@ -1,0 +1,11 @@
+C:\Users\Elena Pineda\source\repos\TestSELENIUM\TestSELENIUM\bin\Debug\netcoreapp2.1\TestSELENIUM.deps.json
+C:\Users\Elena Pineda\source\repos\TestSELENIUM\TestSELENIUM\bin\Debug\netcoreapp2.1\TestSELENIUM.runtimeconfig.json
+C:\Users\Elena Pineda\source\repos\TestSELENIUM\TestSELENIUM\bin\Debug\netcoreapp2.1\TestSELENIUM.runtimeconfig.dev.json
+C:\Users\Elena Pineda\source\repos\TestSELENIUM\TestSELENIUM\bin\Debug\netcoreapp2.1\TestSELENIUM.dll
+C:\Users\Elena Pineda\source\repos\TestSELENIUM\TestSELENIUM\obj\Debug\netcoreapp2.1\TestSELENIUM.csprojAssemblyReference.cache
+C:\Users\Elena Pineda\source\repos\TestSELENIUM\TestSELENIUM\obj\Debug\netcoreapp2.1\TestSELENIUM.csproj.CoreCompileInputs.cache
+C:\Users\Elena Pineda\source\repos\TestSELENIUM\TestSELENIUM\obj\Debug\netcoreapp2.1\TestSELENIUM.AssemblyInfoInputs.cache
+C:\Users\Elena Pineda\source\repos\TestSELENIUM\TestSELENIUM\obj\Debug\netcoreapp2.1\TestSELENIUM.AssemblyInfo.cs
+C:\Users\Elena Pineda\source\repos\TestSELENIUM\TestSELENIUM\bin\Debug\netcoreapp2.1\TestSELENIUM.pdb
+C:\Users\Elena Pineda\source\repos\TestSELENIUM\TestSELENIUM\obj\Debug\netcoreapp2.1\TestSELENIUM.dll
+C:\Users\Elena Pineda\source\repos\TestSELENIUM\TestSELENIUM\obj\Debug\netcoreapp2.1\TestSELENIUM.pdb

@@ -1,0 +1,99 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Elena Pineda\\source\\repos\\TestSELENIUM\\TestSELENIUM\\TestSELENIUM.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Elena Pineda\\source\\repos\\TestSELENIUM\\TestSELENIUM\\TestSELENIUM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Elena Pineda\\source\\repos\\TestSELENIUM\\TestSELENIUM\\TestSELENIUM.csproj",
+        "projectName": "TestSELENIUM",
+        "projectPath": "C:\\Users\\Elena Pineda\\source\\repos\\TestSELENIUM\\TestSELENIUM\\TestSELENIUM.csproj",
+        "packagesPath": "C:\\Users\\Elena Pineda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Elena Pineda\\source\\repos\\TestSELENIUM\\TestSELENIUM\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Elena Pineda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Selenium.Chrome.WebDriver": {
+              "target": "Package",
+              "version": "[85.0.0, )"
+            },
+            "Selenium.Firefox.WebDriver": {
+              "target": "Package",
+              "version": "[0.27.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[93.0.4577.1500, )"
+            },
+            "Selenium.WebDriver.GeckoDriver": {
+              "target": "Package",
+              "version": "[0.29.1, )"
+            },
+            "Selenium.WebDriver.GeckoDriver.Win32": {
+              "target": "Package",
+              "version": "[0.29.1, )"
+            },
+            "Selenium.WebDriver.GeckoDriver.Win64": {
+              "target": "Package",
+              "version": "[0.29.1, )"
+            },
+            "WebDriver.ChromeDriver.win32": {
+              "target": "Package",
+              "version": "[92.0.4515.107, )"
+            },
+            "WebDriver.GeckoDriver": {
+              "target": "Package",
+              "version": "[0.20.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
